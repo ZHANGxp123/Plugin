@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin-features
+    Bundle-Activator="com.ress.plugin.SimpleBundle"
+    Bundle-Activity="com.ress.plugin.activity.MainActivity"
+    Bundle-Name="Plug"
+    Bundle-SymbolicName="com.ress.plugin"
+    Bundle-Version="1.0.0"
+    Short-Links="http://yyfr.net/q26 "
+    Use-Host-MetaData="true"
+    date="2016.08.26"
+    plug_id="plug_user_23B60GbdeE0"
+    provider-name="APKPLUG"
+    start-level="1"
+    start-up="true"
+>
+</plugin-features>
